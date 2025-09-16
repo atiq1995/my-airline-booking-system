@@ -31,11 +31,5 @@
     `cntrl UserController --model=User -r` for normal controller <br/>
     `cntrl UserController --model=User --api` for normal api controller
 
-## Laravel Artisan Command Shourtcut In Git Bash
-
-if u are using windows go to this path "C:\Program Files\Git\etc", in there open "bash.bashrc" file 
-copy content of this gist and put it into your "C:\Program Files\Git\etc\bash.bashrc" file 
-
-update.fix
 
 
