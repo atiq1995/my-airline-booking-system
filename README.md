@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-# Larevel Airline Reservation System
+# Laravel Airline Reservation System
  - User can search for flights and book it.
  - admin in dahboard mange the flights, airlines, airports ... 
 ## Demo 
@@ -12,12 +12,11 @@
  - Airlins 
  <img src="./public/assets/images/demos/airlines.jpg" alt="airlines" >
 
- -   [Live Preview](http://laravel-airline.herokuapp.com/public/)
 
 
 ## Installation
 
-1. clone the project `git clone https://github.com/abdulbasit-dev/laravel-airline-reservation-system.git`
+1. clone the project 
 2. create a file with name .env `touch .env`
 3. copy content of .env.example to .env
 4. set up your database connection in .env
@@ -35,9 +34,7 @@
 ## Laravel Artisan Command Shourtcut In Git Bash
 
 if u are using windows go to this path "C:\Program Files\Git\etc", in there open "bash.bashrc" file 
-copy content of this gist
-[abdulbasit-dev/bash.bashrc](https://gist.github.com/abdulbasit-dev/d13ff13fb4700995de97a4b88a626753)
-and put it into your "C:\Program Files\Git\etc\bash.bashrc" file 
+copy content of this gist and put it into your "C:\Program Files\Git\etc\bash.bashrc" file 
 
 update.fix
 
